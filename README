@@ -1,5 +1,6 @@
 The code here is used to generate the figures for the publication 
 "Coupling mountain pine beetle and forest population dynamics predicts transient outbreaks that are likely to increase in number with climate change"
-by Micah Brush and Mark Lewis.
+by Micah Brush and Mark A. Lewis. This work is published here:
+Brush, M., Lewis, M.A. Coupling Mountain Pine Beetle and Forest Population Dynamics Predicts Transient Outbreaks that are Likely to Increase in Number with Climate Change. Bull Math Biol 85, 108 (2023). https://doi.org/10.1007/s11538-023-01215-7
 
 The file analysisfunctions.py contains all of the numerical functions needed for the plots, and the python notebooks are for creating the plots.
